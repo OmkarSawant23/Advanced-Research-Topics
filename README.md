@@ -7,7 +7,7 @@ This project explores classical and deep learning approaches to time series fore
 - Johnson & Johnson (JJ) quarterly earnings per share (EPS)
 - Amazon (AMZN) daily closing stock prices
 
-Both case studies follow a similar pipeline:
+Both case studies follow a similar pipeline
 
 - Exploratory time series visualization
 - Seasonal decomposition
@@ -17,6 +17,7 @@ Both case studies follow a similar pipeline:
 - Final ARIMA model fit and forecasting
 - LSTM-based forecasting as a deep learning alternative
 - FFT-based frequency-domain analysis
+
 
 
 ---
