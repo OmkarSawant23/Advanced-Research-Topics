@@ -3,9 +3,8 @@
 #  Time Series Forecasting Project — JJ EPS & Amazon Stock
 
 This project explores **classical** and **deep learning** approaches to time series forecasting using two real-world datasets:
-
-1. **Johnson & Johnson (JJ) quarterly earnings per share (EPS)**
-2. **Amazon (AMZN) daily closing stock prices**
+**Johnson & Johnson (JJ) quarterly earnings per share (EPS)**
+**Amazon (AMZN) daily closing stock prices**
 
 Both case studies follow a similar pipeline:
 
