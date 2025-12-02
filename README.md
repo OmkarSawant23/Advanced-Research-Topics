@@ -1,6 +1,6 @@
 ---
 
-# 📘 Time Series Forecasting Project — JJ EPS & Amazon Stock
+#  Time Series Forecasting Project — JJ EPS & Amazon Stock
 
 This project explores **classical** and **deep learning** approaches to time series forecasting using two real-world datasets:
 
