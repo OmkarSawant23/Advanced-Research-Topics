@@ -429,7 +429,7 @@ In both JJ and AMZN cases:
 
 1. Ensure `jj.csv` and `AMZN.csv` are in your working directory.
 
-2. Open the notebooks/scripts for each part (e.g. `Assignment1.ipynb` and `Assignment1_part2.ipynb`).
+2. Open the notebooks/scripts for each part (e.g. `assignment_1.ipynb` and `assignment_1_part2.ipynb`).
 
 3. Run all cells in order:
 
