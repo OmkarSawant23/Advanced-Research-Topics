@@ -1,21 +1,23 @@
 ---
 
-#  Time Series Forecasting Project — JJ EPS & Amazon Stock
+# Time Series Forecasting Project — JJ EPS & Amazon Stock
 
-This project explores **classical** and **deep learning** approaches to time series forecasting using two real-world datasets:
-**Johnson & Johnson (JJ) quarterly earnings per share (EPS)**
-**Amazon (AMZN) daily closing stock prices**
+This project explores classical and deep learning approaches to time series forecasting using two real-world datasets.
+
+- Johnson & Johnson (JJ) quarterly earnings per share (EPS)
+- Amazon (AMZN) daily closing stock prices
 
 Both case studies follow a similar pipeline:
 
-* Exploratory time series visualization
-* Seasonal decomposition
-* Stationarity testing (ADF) & differencing
-* ACF/PACF analysis
-* ARIMA model selection (grid search + auto-ARIMA)
-* Final ARIMA model fit & forecasting
-* LSTM-based forecasting as a deep learning alternative
-* FFT-based frequency-domain analysis
+- Exploratory time series visualization
+- Seasonal decomposition
+- Stationarity testing (ADF) and differencing
+- ACF/PACF analysis
+- ARIMA model selection (grid search + auto-ARIMA)
+- Final ARIMA model fit and forecasting
+- LSTM-based forecasting as a deep learning alternative
+- FFT-based frequency-domain analysis
+
 
 ---
 
